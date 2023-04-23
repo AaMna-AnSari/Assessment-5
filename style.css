@@ -1,0 +1,37 @@
+.navbaar{
+    background-color: rgb(51, 50, 50);
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.items{
+    padding-left: 600px;
+}
+.colr{
+    color: rgb(169, 167, 167);
+}
+.section1{
+    border: 2px solid black;
+    background-image: url(./photo/walk_into_fall-t.jpg);
+    background-repeat: no-repeat;
+ background-size: cover;
+}
+.sectiondata{
+    text-align: center;
+    color: white;
+}
+.helo{
+    font-size: larger;
+    margin-top: 50px;
+}
+button{
+    margin-bottom: 200px;
+}
+footer{
+    background-color: rgb(51, 50, 50);
+    color: white;
+    text-align: center;
+    height: 40px;
+}
